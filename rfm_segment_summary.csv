@@ -1,0 +1,7 @@
+Segment,customers,avg_recency_days,avg_frequency,avg_monetary,total_revenue,pct_customers,pct_revenue,recommended_action
+Champions,165,176.8,7.9,521.3,86020.5,20.6,36.8,"Reward, early access, ask for referrals"
+At-Risk,147,486.1,6.2,401.8,59071.9,18.4,25.2,"Win-back campaign, personalised outreach"
+Loyal,168,297.5,5.0,344.9,57949.5,21.0,24.8,"Upsell, loyalty programme"
+Hibernating,173,505.9,1.3,91.6,15846.4,21.6,6.8,Low-cost reactivation or let go
+New Customers,79,219.0,1.6,108.7,8590.6,9.9,3.7,"Onboarding series, second-purchase offer"
+Needs Attention,68,381.1,1.4,96.7,6572.7,8.5,2.8,"Limited-time offers, re-engage"
